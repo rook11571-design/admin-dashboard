@@ -1,0 +1,16 @@
+*{
+    margin:0;
+    padding:0;
+}
+ul {
+    list-style: none;
+}
+.container{
+    display:grid;
+    grid-template-columns: 1fr 4fr;
+}
+.sidebar{
+    background-color:#1992d4;
+    color: #FFFFFF;
+    display:grid;
+}
